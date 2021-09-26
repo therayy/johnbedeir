@@ -2,12 +2,9 @@
 
 ## I'm a DevOps Engineer!!
 
-- 🔭 I launched Devops courses on my Youtube Channel: [Become A Devops Engineer!][course]!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more to Open Source projects
-<!-- - ⚡ Fun fact: I love to draw and play guitar / drums -->
-
+- 🔭 I’m currently learning everything 🤣 
+- 🌱 I’m looking to get certified and grow
+- 🥅 2021 Goals: End it at least with one RED-HAT certifcate
 
 ### Connect with me:
 
